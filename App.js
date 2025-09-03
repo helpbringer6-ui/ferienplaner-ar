@@ -4,7 +4,7 @@ import { SafeAreaView, Text } from 'react-native';
 const App = () => {
   return (
     <SafeAreaView>
-      <Text>Willkommen bei Ferienplaner AR!</Text>
+      <Text>Welcome to Holiday Planner AR!</Text>
     </SafeAreaView>
   );
 };
