@@ -5,7 +5,7 @@ Vielen Dank, dass du daran interessiert bist, zur "Ferienplaner AR" App beizutra
 ## Wie man beiträgt
 1. Fork dieses Repository.
 2. Erstelle einen neuen Branch für dein Feature oder Bugfix (z.B. `git checkout -b feature/xyz` oder `git checkout -b bugfix/xyz`).
-3. Nimm deine Änderungen vor und stelle sicher, dass sie gut dokumentiert sind.
+3. Nimm deine Änderungen vor und stelle sicher, dass sie **gut dokumentiert** sind.
 4. Führe Tests durch, um sicherzustellen, dass alles wie erwartet funktioniert.
 5. Füge die Änderungen zusammen (`git merge`), und sende einen Pull-Request.
 
